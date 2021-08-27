@@ -4,6 +4,7 @@
   "description": "npm and git test",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^5.1.0",
     "jquery": "^3.6.0"
   },
   "devDependencies": {},
